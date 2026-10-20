@@ -61,7 +61,7 @@ If you refer to this system or its documentation in your research, please cite:
 
 ```bibtex
 @misc{ITMS_Hardware_2026,
-  author = {Deshmukh, Prathamesh and Mukherjee, Sudip},
+  author = {Mukherjee, Sudip and Deshmukh, Prathamesh and Kashyap, Srishti and Mukherjee, Swastika},
   title = {Integrated Transport Measurement System (Supplementary Material)},
   year = {2026},
   publisher = {GitHub},

@@ -3,13 +3,20 @@
   "description": "Technical description of the Integrated Transport Measurement System (ITMS), a modular cryogenic platform for high-impedance transport, pyroelectric, and magnetodielectric characterisation in PPMS (14 T) and LN2 environments. Developed at UGC-DAE CSR, Mumbai Centre.",
   "creators": [
     {
-      "name": "Deshmukh, Prathamesh",
+      "name": "Mukherjee, Sudip",
       "affiliation": "UGC-DAE Consortium for Scientific Research, Mumbai Centre",
-      "orcid": ""
+      "orcid": "0000-0003-4734-9157"
     },
     {
-      "name": "Mukherjee, Sudip",
-      "affiliation": "UGC-DAE Consortium for Scientific Research, Mumbai Centre"
+      "name": "Deshmukh, Prathamesh",
+      "affiliation": "UGC-DAE Consortium for Scientific Research, Mumbai Centre",
+      "orcid": "0009-0008-3278-0837"
+    },
+    {
+      "name": "Kashyap, Srishti"
+    },
+    {
+      "name": "Mukherjee, Swastika"
     }
   ],
   "access_right": "open",
