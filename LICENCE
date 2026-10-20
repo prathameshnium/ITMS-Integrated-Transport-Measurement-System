@@ -1,59 +1,64 @@
-OPEN SOURCE HARDWARE LICENSE
+ITMS DOCUMENTATION LICENCE
 -------------------------------------------------------------------------
 Integrated Transport Measurement System (ITMS)
 Copyright (c) 2026 UGC-DAE Consortium for Scientific Research, Mumbai Centre
 -------------------------------------------------------------------------
 
 FUNDING ACKNOWLEDGEMENT:
-This work was developed with financial support from the Science and Engineering 
-Research Board (SERB), Government of India, under Core Research Grant (CRG) 
+This work was developed with financial support from the Science and Engineering
+Research Board (SERB), Government of India, under Core Research Grant (CRG)
 No. CRG/2022/005676.
 
 -------------------------------------------------------------------------
 TERMS AND CONDITIONS
 -------------------------------------------------------------------------
 
-This hardware design, documentation, and associated data are licensed under the 
-Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+This documentation and the associated system description are licensed under the
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+License (CC BY-NC-ND 4.0).
 
 You are free to:
    - Share: copy and redistribute the material in any medium or format.
-   - Adapt: remix, transform, and build upon the material for any purpose, 
-     even commercially.
 
 Under the following terms:
-   1. Attribution (Credit): You must give appropriate credit to "UGC-DAE 
-      Consortium for Scientific Research, Mumbai Centre," provide a link to the 
-      license, and indicate if changes were made. You may do so in any reasonable 
+   1. Attribution (Credit): You must give appropriate credit to "UGC-DAE
+      Consortium for Scientific Research, Mumbai Centre," provide a link to the
+      licence, and indicate if changes were made. You may do so in any reasonable
       manner, but not in any way that suggests the licensor endorses you or your use.
-   
-   2. ShareAlike: If you remix, transform, or build upon the material, you must 
-      distribute your contributions under the same license as the original.
 
-   3. No additional restrictions: You may not apply legal terms or technological 
-      measures that legally restrict others from doing anything the license permits.
+   2. NonCommercial: You may not use the material for commercial purposes.
+
+   3. NoDerivatives: If you remix, transform, or build upon the material, you
+      may not distribute the modified material.
+
+   4. No additional restrictions: You may not apply legal terms or technological
+      measures that legally restrict others from doing anything the licence permits.
+
+Design files (schematics, CAD models, PCB layouts, bills of materials) are not
+published in this repository and are not covered by this licence. All rights
+to them are reserved by UGC-DAE CSR, Mumbai Centre.
 
 -------------------------------------------------------------------------
 ATTRIBUTION INSTRUCTION (ACADEMIC USE)
 -------------------------------------------------------------------------
-If you utilize these designs, data, or methodology in academic research, 
+If you refer to this system or its documentation in academic research,
 you constitute "Appropriate Credit" by citing the following publication/repository:
 
-   Deshmukh, P., & Mukherjee, S. (2026). Integrated Transport Measurement System 
-   (Supplementary Material) [Data set]. UGC-DAE CSR. 
-   https://github.com/prathameshnium/ATMS-Hardware
+   Deshmukh, P., & Mukherjee, S. (2026). Integrated Transport Measurement System
+   (Supplementary Material). UGC-DAE CSR.
+   https://github.com/prathameshnium/ITMS-Hardware
 
 -------------------------------------------------------------------------
 DISCLAIMER OF WARRANTY / LIMITATION OF LIABILITY
 -------------------------------------------------------------------------
-THE HARDWARE DESIGNS AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY 
-OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES 
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-IN NO EVENT SHALL THE AUTHORS, THE UGC-DAE CONSORTIUM FOR SCIENTIFIC RESEARCH, 
-OR THE FUNDING AGENCIES BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR 
-IN CONNECTION WITH THE HARDWARE OR THE USE OR OTHER DEALINGS IN THE HARDWARE.
+IN NO EVENT SHALL THE AUTHORS, THE UGC-DAE CONSORTIUM FOR SCIENTIFIC RESEARCH,
+OR THE FUNDING AGENCIES BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
+IN CONNECTION WITH THE DOCUMENTATION OR THE USE OF THE INFORMATION IT CONTAINS.
 
-(The full text of the CC BY-SA 4.0 license is available at: 
-https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+(The full text of the CC BY-NC-ND 4.0 licence is available at:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)

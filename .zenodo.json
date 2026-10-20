@@ -1,6 +1,6 @@
 {
-  "title": "Integrated Transport Measurement System (ITMS): Supplementary Hardware Design",
-  "description": "Open source hardware design and supplementary data for the ITMS cryogenic platform. Includes Bill of Materials (BOM), wiring schematics, and mechanical assembly descriptors for the Liquid Nitrogen (77K) and PPMS modules. Designed at UGC-DAE CSR, Mumbai Centre.",
+  "title": "Integrated Transport Measurement System (ITMS): System Description",
+  "description": "Technical description of the Integrated Transport Measurement System (ITMS), a modular cryogenic platform for high-impedance transport, pyroelectric, and magnetodielectric characterisation in PPMS (14 T) and LN2 environments. Developed at UGC-DAE CSR, Mumbai Centre.",
   "creators": [
     {
       "name": "Deshmukh, Prathamesh",
@@ -13,13 +13,14 @@
     }
   ],
   "access_right": "open",
-  "license": "CC-BY-SA-4.0",
+  "license": "CC-BY-NC-ND-4.0",
   "keywords": [
     "cryogenics",
     "instrumentation",
-    "open-hardware",
+    "measurement-system",
     "transport-measurement",
-    "high-impedance"
+    "high-impedance",
+    "pyroelectric"
   ],
   "grants": [
     {
@@ -31,5 +32,6 @@
       }
     }
   ],
-  "upload_type": "dataset"
+  "upload_type": "publication",
+  "publication_type": "technicalnote"
 }
