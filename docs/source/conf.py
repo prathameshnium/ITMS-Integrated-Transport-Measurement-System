@@ -8,7 +8,7 @@
 
 project = 'Integrated Transport Measurement System (ITMS)'
 copyright = '2026, UGC DAE Consortium for Scientific Research, Mumbai Centre'
-author = 'Dr. Sudip Mukherjee, Prathamesh Deshmukh, Srishti Kashyap and Swastika Mukherjee'
+author = 'Dr. Sudip Mukherjee, Prathamesh Deshmukh, Swastika Mukherjee and Srishti Kashyap'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
