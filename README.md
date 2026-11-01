@@ -36,8 +36,8 @@ The system uses the following measurement inserts (probes):
 
 | Component Name | Environment | Primary Application | Status |
 | :--- | :--- | :--- | :--- |
-| **[Cryogenic Insert](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/modules/cryo_probe)** | Liquid Nitrogen | Low-Noise Transport, Pyroelectric Current | **Active** |
-| **[PPMS Interface](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/modules/ppms_insert)** | QD PPMS | Magnetodielectric, Hall Effect | **Active** |
+| **[Cryogenic Insert](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/docs/source/probes/cryo_probe.md)** | Liquid Nitrogen | Low-Noise Transport, Pyroelectric Current | **Active** |
+| **[PPMS Interface](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/docs/source/probes/ppms_insert.md)** | QD PPMS | Magnetodielectric, Hall Effect | **Active** |
 
 ---
 

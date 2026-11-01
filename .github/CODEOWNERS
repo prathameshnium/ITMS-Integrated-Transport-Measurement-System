@@ -1,11 +1,10 @@
-# This file defines the code owners for the ITMS Hardware repository.
-# It enforces review requirements for critical hardware files.
+# This file defines the code owners for the ITMS documentation repository.
 
 # ---------------------------------------------------------------
 # INSTITUTIONAL AUTHORITY (OFFLINE)
 # Facility In-Charge: Dr. Sudip Mukherjee (Scientist-F, UGC-DAE CSR)
-# Note: All critical hardware changes must be physically approved 
-# by the Facility In-Charge before being merged by the Maintainer.
+# Note: All technical changes must be approved by the
+# Facility In-Charge before being merged by the Maintainer.
 # ---------------------------------------------------------------
 
 # Global Technical Maintainer
@@ -14,9 +13,5 @@
 # Documentation & Safety Policy
 # Requires strict review to align with laboratory safety standards.
 /SECURITY.md    @prathameshnium
-/LICENSE        @prathameshnium
-
-# Hardware Modules (Critical Engineering Files)
-# Changes to BOM or PCBs require validation against physical inventory.
-/modules/       @prathameshnium
-/bom/           @prathameshnium
+/LICENCE        @prathameshnium
+/docs/          @prathameshnium

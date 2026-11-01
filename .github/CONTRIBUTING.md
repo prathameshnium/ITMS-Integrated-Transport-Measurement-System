@@ -1,4 +1,4 @@
-# Contributing to ITMS Hardware
+# Contributing to ITMS
 
 Thank you for your interest in the Integrated Transport Measurement System (ITMS).
 

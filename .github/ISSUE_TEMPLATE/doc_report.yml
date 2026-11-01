@@ -1,5 +1,5 @@
 name: Documentation Correction
-description: Report errors in the wiring diagrams, BOM, or assembly guides.
+description: Report errors or unclear explanations in the ITMS documentation.
 title: "[DOC]: "
 labels: ["documentation", "triage"]
 body:
@@ -11,7 +11,7 @@ body:
     id: description
     attributes:
       label: Description of the Error
-      description: Which file or diagram contains the error?
-      placeholder: e.g. The resistor value in BOM.csv row 4 does not match the schematic.
+      description: Which page or section contains the error?
+      placeholder: e.g. The temperature range on the PPMS Interface page does not match the README.
     validations:
       required: true
