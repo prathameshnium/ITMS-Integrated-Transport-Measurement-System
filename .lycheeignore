@@ -1,2 +1,5 @@
-# Placeholder DOI in the RESEARCH_IMPACT.md entry template
+# Placeholder DOI in the docs/source/research_impact.md entry template
 ^https://doi\.org/10\.xxxx/
+
+# Read the Docs site — remove once the project is imported on readthedocs.org
+^https://itms-integrated-transport-measurement-system\.readthedocs\.io/

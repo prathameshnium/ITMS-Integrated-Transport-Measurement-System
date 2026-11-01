@@ -6,12 +6,15 @@
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=flat-square)
 [![Software](https://img.shields.io/badge/Software-PICA_Suite-blue?style=flat-square)](https://github.com/prathameshnium/PICA-Python-Instrument-Control-and-Automation)
 ![Docs Health](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/actions/workflows/link-check.yml/badge.svg)
+[![Read the Docs](https://img.shields.io/readthedocs/itms-integrated-transport-measurement-system/latest?logo=readthedocs&logoColor=white)](https://itms-integrated-transport-measurement-system.readthedocs.io/en/latest/)
 
 The ITMS is an indigenously developed system designed for novel and advanced characterisation, implemented using a low-cost, modular experimental setup.
 
 **Affiliation:** UGC-DAE Consortium for Scientific Research, Mumbai Centre & Savitribai Phule Pune University  
 **Funding:** SERB-CRG Grant No. CRG/2022/005676  
 **Facility In‑Charge:** Dr. Sudip Mukherjee, Scientist‑F
+
+The ITMS provides the **Electrical Transport** and **Broadband Dielectric Spectrometer** facilities listed on the centre's [user facility portal](https://www.csruserportal.com/Intro/csrMumbaiFacilities) ([archived 1 Nov 2026](https://web.archive.org/web/20261101142758/https://www.csruserportal.com/Intro/csrMumbaiFacilities)).
 
 ---
 
@@ -70,6 +73,6 @@ If you refer to this system or its documentation in your research, please cite:
 }
 
 ```
-**Research Impact:** Papers that used or cite ITMS are listed in [RESEARCH_IMPACT.md](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/RESEARCH_IMPACT.md).
+**Research Impact:** Papers that used or cite ITMS are listed in [Research Impact](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/blob/main/docs/source/research_impact.md).
 
 **Contact:** For technical inquiries, please create an [Issue](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/issues) in this repository.

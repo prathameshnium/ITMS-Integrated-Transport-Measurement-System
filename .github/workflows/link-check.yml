@@ -24,7 +24,8 @@ jobs:
         with:
           # Check Markdown files and the Sphinx / Read the Docs sources
           # (exclusions live in .lycheeignore)
-          args: --verbose --no-progress './**/*.md' './docs/source/**/*.rst'
+          # 429 = rate-limited (e.g. web.archive.org), not a broken link
+          args: --verbose --no-progress --accept '200..=299,429' './**/*.md' './docs/source/**/*.rst'
           fail: true
 
       - name: Create Issue on Failure

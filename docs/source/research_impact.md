@@ -1,3 +1,10 @@
+---
+myst:
+  html_meta:
+    description: "Research output connected to ITMS, the Integrated Transport Measurement System at the UGC-DAE Consortium for Scientific Research, Mumbai Centre, which provides the electrical transport and broadband dielectric spectroscopy user facilities."
+    keywords: "ITMS research impact, ITMS citations, UGC-DAE CSR Mumbai, user facility, electrical transport measurements, broadband dielectric spectroscopy, cryogenic measurements"
+---
+
 # Research Impact
 
 Research output connected to ITMS, grouped by how ITMS was involved.
@@ -6,6 +13,17 @@ Used ITMS in your own work? Open a
 [GitHub issue](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/issues)
 or a pull request adding your paper here, and please
 [cite ITMS](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System#cite-this-repository).
+
+---
+
+## User facility
+
+ITMS was developed at the
+[UGC-DAE Consortium for Scientific Research, Mumbai Centre](https://www.csr.res.in/Mumbai_Centre).
+The ITMS provides the **Electrical Transport** and
+**Broadband Dielectric Spectrometer** facilities listed on the centre's
+[user facility portal](https://www.csruserportal.com/Intro/csrMumbaiFacilities)
+([archived 1 Nov 2026](https://web.archive.org/web/20261101142758/https://www.csruserportal.com/Intro/csrMumbaiFacilities)).
 
 ---
 
