@@ -1,6 +1,7 @@
 name: Documentation Health Check
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
@@ -8,23 +9,27 @@ on:
   schedule:
     - cron: '0 0 * * 0' # Runs every Sunday at midnight
 
+permissions:
+  contents: read
+  issues: write
+
 jobs:
   link-checker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Link Checker (Lychee)
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2
         with:
-          # Check all Markdown and CSV files
-          args: --verbose --no-progress './**/*.md' './**/*.csv'
-          # specific exclusions (if needed)
+          # Check Markdown files and the Sphinx / Read the Docs sources
+          # (exclusions live in .lycheeignore)
+          args: --verbose --no-progress './**/*.md' './docs/source/**/*.rst'
           fail: true
 
       - name: Create Issue on Failure
         if: failure() && github.event_name == 'schedule'
-        uses: peter-evans/create-issue-from-file@v4
+        uses: peter-evans/create-issue-from-file@v5
         with:
           title: "Broken Links Detected in Documentation"
           content-filepath: ./lychee/out.md
