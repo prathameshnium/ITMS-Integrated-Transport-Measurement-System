@@ -3,9 +3,9 @@
 Research output connected to ITMS, grouped by how ITMS was involved.
 
 Used ITMS in your own work? Open a
-[GitHub issue](https://github.com/prathameshnium/ITMS-Hardware/issues)
+[GitHub issue](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System/issues)
 or a pull request adding your paper here, and please
-[cite ITMS](https://github.com/prathameshnium/ITMS-Hardware#cite-this-repository).
+[cite ITMS](https://github.com/prathameshnium/ITMS-Integrated-Transport-Measurement-System#cite-this-repository).
 
 ---
 
