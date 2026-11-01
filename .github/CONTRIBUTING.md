@@ -15,7 +15,7 @@ We welcome community feedback in the following forms:
 * **Do not** submit Pull Requests that change technical specifications (operating ranges, instrument configurations, measurement capabilities). These will be closed.
 * **Do** open an Issue first to discuss any proposed changes.
 
-## Intellectual Property & OSHWA
-These hardware's is planned to be certified by the Open Source Hardware Association (OSHWA). To maintain the integrity of our certification and institutional IP, all major design revisions must originate from the primary maintainers at UGC-DAE CSR.
+## Intellectual Property
+To protect institutional IP, all major design revisions must originate from the primary maintainers at UGC-DAE CSR.
 
 Thank you for respecting these guidelines and helping us maintain a reliable standard for the scientific community.
